@@ -214,3 +214,7 @@ Run notebooks in order:
 3. `07_Cross_Validation.ipynb` — writes `artifacts/fold_ids.npy`
 4. `02_Baseline.ipynb`, `03_CatBoost.ipynb`, `04_XGBoost.ipynb`, `05_LightGBM.ipynb` — each writes `artifacts/oof_<model>.npy` and `artifacts/test_pred_<model>.csv`
 5. `08_Ensemble.ipynb` — reads all OOF/test predictions, optimizes ensemble weights, writes `submission.csv`
+
+## License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
