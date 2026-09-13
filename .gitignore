@@ -1,4 +1,10 @@
 .vscode/
 
-
 dataset/
+catboost_info/
+artifacts/
+plots/
+models/
+
+submission.csv
+
