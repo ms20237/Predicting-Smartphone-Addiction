@@ -1,5 +1,10 @@
 # Predicting-Smartphone-Addiction
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Solution for the Kaggle **Playground Series – Season 6, Episode 8: "Predicting Smartphone Addiction"** competition. Binary classification — predict the probability that a person is addicted to their phone (`addicted_label`), scored on **ROC-AUC**.
 
 ## Repository structure
